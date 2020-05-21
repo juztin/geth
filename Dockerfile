@@ -1,4 +1,4 @@
-FROM minty/solidity-dev as dev
+FROM minty/solidity-dev:0.6.8-1.9.14 as dev
 FROM alpine
 
 
